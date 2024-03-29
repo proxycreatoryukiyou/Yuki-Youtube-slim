@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: abura53-yukiyoutube-blog
+    name: yuki-youtube-slim
     env: python
     region: Oregon
     plan: free
