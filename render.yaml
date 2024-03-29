@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: proxy-creator-yukiyoutube-blog-2
+    name: proxy-creator-yukiyoutube-blog-1
     env: python
     region: Oregon
     plan: free
