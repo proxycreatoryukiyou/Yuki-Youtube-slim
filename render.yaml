@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: proxy-creator-yukiyoutube-blog-3
+    name: abura53-yukiyoutube-blog
     env: python
     region: Oregon
     plan: free
